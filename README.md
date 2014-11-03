@@ -60,6 +60,8 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
+* Bertille.
+* Justin.
 * Tony Merrien.
 * Rémi Plantade.
 * A Louis Chevalier.
