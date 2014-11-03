@@ -64,7 +64,7 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Rémi Plantade,
 * A Louis Chevalier,
 * Pancher Pierre-louis,
-* Quesnel Guillaume.
-* Simon Roger.
-* Simon Roger.
+* Quesnel Guillaume,
+* Simon Roger,
+* Simon Roger,
 * Virgil Deschamps.
