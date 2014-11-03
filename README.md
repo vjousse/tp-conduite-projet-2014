@@ -65,6 +65,6 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * A Louis Chevalier,
 * Pancher Pierre-louis,
 * Quesnel Guillaume,
-* Simon Roger,
-* Simon Roger,
+* Simon Roger.
+* Simon Roger.
 * Virgil Deschamps.
