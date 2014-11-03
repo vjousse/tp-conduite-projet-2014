@@ -60,7 +60,9 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
+* Eloïse Lebouc.
 * Tony Merrien.
 * Rémi Plantade.
 * A Louis Chevalier.
 * Pancher Pierre-louis.
+
