@@ -60,6 +60,9 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
+
+
+* Simon Hamery
 * Tony Merrien.
 * Rémi Plantade.
 * A Louis Chevalier.
