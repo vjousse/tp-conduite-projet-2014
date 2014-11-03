@@ -10,7 +10,7 @@
 * Dupliquez (*fork*) le projet tp-conduite-projet-2014 dans votre espace.
 * Récupérez sur votre disque dur les sources du projet.
 
-        git clone git@github.com:votrecompte/tp-conduite-projet-2014.git
+        git clone https://github.com/votrecompte/tp-conduite-projet-2014.git
 
 * Indiquez le dépôt Git officiel (le mien) :
 
@@ -24,7 +24,7 @@
 * Faites une révision :
 
         git add README.md
-        git commit
+        git commit -m "Un joli message"
 
 * Publiez-la dans votre espace public:
 
@@ -35,7 +35,7 @@
 * Faites une révision :
 
         git add README.md
-        git commit
+        git commit -m "Un autre joli message"
 
 * Mettez à jour votre disque dur jusqu'à ce que vous récupériez les modifications de quelqu'un d'autre.
 
@@ -59,7 +59,12 @@
 ## Remerciements
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
+
 * Jean Claude.
 * Thomas Gastineau.
 * Flavien Le Bailly.
 * Bertille Met Monteau.
+* Tony Merrien.
+* Rémi Plantade.
+* A Louis Chevalier.
+* Pancher Pierre-louis.
