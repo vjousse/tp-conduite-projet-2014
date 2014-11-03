@@ -65,6 +65,13 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * A Louis Chevalier,
 * Pancher Pierre-louis,
 * Quesnel Guillaume,
+* Le Deunf Meryem,
+* Met-Montot Bertille.
+* Quesnel Guillaume.
 * Simon Roger.
 * Simon Roger.
 * Virgil Deschamps.
+* Rémi Plantade.
+* A Louis Chevalier.
+* Pancher Pierre-louis.
+* A Thibault Gauran
