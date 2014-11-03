@@ -64,3 +64,4 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Rémi Plantade.
 * A Louis Chevalier.
 * Pancher Pierre-louis.
+* Samuel Diabaté
