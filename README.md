@@ -60,7 +60,14 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
+* Thomas Gastineau.
+* Moi.
+* Jean Eude.
+* Claire mont ferrand.
+* Bertille met'monteau il fait froid. 
+* Justin petit peu.
 * Tony Merrien.
 * Rémi Plantade.
 * A Louis Chevalier.
 * Pancher Pierre-louis.
+
