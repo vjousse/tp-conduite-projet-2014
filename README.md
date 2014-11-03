@@ -60,11 +60,9 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
-<<<<<<< HEAD
-* Eloïse Lebouc
-=======
+* Eloïse Lebouc.
 * Tony Merrien.
 * Rémi Plantade.
 * A Louis Chevalier.
 * Pancher Pierre-louis.
->>>>>>> 0704e266ad6e15e960bf3f66e61ea90c42f7692c
+
