@@ -60,6 +60,10 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
+* Jean Claude.
+* Thomas Gastineau.
+* Flavien Le Bailly.
+* Bertille Met Monteau.
 * Tony Merrien.
 * Rémi Plantade.
 * A Louis Chevalier.
