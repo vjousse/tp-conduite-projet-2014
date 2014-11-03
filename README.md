@@ -60,4 +60,5 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
-* Chloe CORNO.
+* Chloe CORNO,
+* Pas d'autre binome.
