@@ -62,4 +62,4 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
 * Tony Merrien.
 * Rémi Plantade.
-* A Louis Chevalier.
+* Alexis Romme
