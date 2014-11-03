@@ -60,10 +60,21 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
+* Tony Merrien,
+* Rémi Plantade,
+* A Louis Chevalier,
+* Pancher Pierre-louis,
+* Le Deunf Meryem,
+* Met-Montot Bertille.
+* Quesnel Guillaume.
+* Simon Roger.
+* Simon Roger.
+* Virgil Deschamps.
 * Tony Merrien.
 * Rémi Plantade.
 * A Louis Chevalier.
 * Pancher Pierre-louis.
 * LIU Junjiang.
 * XIA Yin
+* A Thibault Gauran
 
