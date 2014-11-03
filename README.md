@@ -10,12 +10,12 @@
 * Dupliquez (*fork*) le projet tp-conduite-projet-2014 dans votre espace.
 * Récupérez sur votre disque dur les sources du projet.
 
-        git clone git@github.com:votrecompte/tp-conduite-projet-2014.git
+        git clone https://github.com/votrecompte/tp-conduite-projet-2014.git
 
 * Indiquez le dépôt Git officiel (le mien) :
 
         cd tp-conduite-projet-2014
-        git remote add official git@github.com:vjousse/tp-conduite-projet-2014.git 
+        git remote add official https://github.com/vjousse/tp-conduite-projet-2014.git
 
 * Combien de *remote* avez-vous ? Comment faire pour le savoir ?
 
@@ -24,7 +24,7 @@
 * Faites une révision :
 
         git add README.md
-        git commit
+        git commit -m "Un joli message"
 
 * Publiez-la dans votre espace public:
 
@@ -35,7 +35,7 @@
 * Faites une révision :
 
         git add README.md
-        git commit
+        git commit -m "Un autre joli message"
 
 * Mettez à jour votre disque dur jusqu'à ce que vous récupériez les modifications de quelqu'un d'autre.
 
@@ -60,4 +60,11 @@
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
+<<<<<<< HEAD
 * Eloïse Lebouc
+=======
+* Tony Merrien.
+* Rémi Plantade.
+* A Louis Chevalier.
+* Pancher Pierre-louis.
+>>>>>>> 0704e266ad6e15e960bf3f66e61ea90c42f7692c
