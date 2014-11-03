@@ -15,7 +15,7 @@
 * Indiquez le dépôt Git officiel (le mien) :
 
         cd tp-conduite-projet-2014
-        git remote add official git@github.com:vjousse/tp-conduite-projet-2014.git 
+        git remote add official https://github.com/vjousse/tp-conduite-projet-2014.git
 
 * Combien de *remote* avez-vous ? Comment faire pour le savoir ?
 
@@ -61,4 +61,9 @@
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 
 
+
 * Simon Hamery
+* Tony Merrien.
+* Rémi Plantade.
+* A Louis Chevalier.
+* Pancher Pierre-louis.
