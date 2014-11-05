@@ -84,4 +84,5 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Godefroy Thieulart,
 * Basset Hector,
 * Dezere Florian,
-* Lemée Arthur.
+* Lemée Arthur,
+* Linus König.
