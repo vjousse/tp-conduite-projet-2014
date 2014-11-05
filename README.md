@@ -79,4 +79,8 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * A Thibault Gauran,
 * Basset Hector,
 * DASH Rainbow,
-* THIEULART Godefroy.
+* THIEULART Godefroy,
+* Toulmonde Joris,
+* Basset Hector,
+* Dezere Florian.
+
