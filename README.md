@@ -70,12 +70,16 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Met-Montot Bertille,
 * Quesnel Guillaume,
 * Simon Roger,
-* Simon Roger,
 * Virgil Deschamps,
 * Tony Merrien,
 * Rémi Plantade,
 * A Louis Chevalier,
 * Pancher Pierre-louis,
+* Thibault Gauran,
+* PAGIS Etienne,
+* GRUDE Victorien,
+* FOUQUET Stevy,
+* Tama,
 * A Thibault Gauran,
 * Basset Hector,
 * Fouquet Stevy,
@@ -92,4 +96,4 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Dezere Florian,
 * Lemée Arthur,
 * Dezere Florian.
--
+
