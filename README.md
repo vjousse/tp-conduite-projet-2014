@@ -82,3 +82,4 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Basset Hector,
 * Dezere Florian,
 * Canovas-Virly Baptiste,
+* Lemée Arthur,
