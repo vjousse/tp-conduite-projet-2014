@@ -79,4 +79,19 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * A Thibault Gauran,
 * Basset Hector,
 * Hajir Mohammed amine,
-* Hajir Mohammed amine.
+* Hajir Mohammed amine,
+* Fouquet Stevy,
+* Pagis Etienne,
+* FOUQUET Stevy,
+* Grude Victorien,
+* Yassine M'chaar,
+* Toulmonde Joris,
+* Godefroy Thieulart,
+* Basset Hector,
+* Guedouard Wajdi,
+* Godefroy Thieulart,
+* Basset Hector,
+* Dezere Florian,
+* Lemée Arthur,
+* Dezere Florian.
+
