@@ -78,4 +78,5 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Pancher Pierre-louis,
 * A Thibault Gauran,
 * Basset Hector,
+* Hajir Mohammed amine,
 * Hajir Mohammed amine.
