@@ -1,4 +1,4 @@
-# Tp Git
+﻿# Tp Git
 
 * Vérifiez que vous avez bien *Git* d'installé. Que vous donne la commande suivante dans le terminal :
 
@@ -63,3 +63,4 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Tony Merrien.
 * Rémi Plantade.
 * Alexis Romme
+* Marcelin besnoist
