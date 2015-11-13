@@ -60,4 +60,4 @@ Nous allons voir ici comment contribuer à un projet que vous n'avez pas créé.
 ## Remerciements
 
 Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
-*Ciron Fabien.
+* Ciron Fabien.
