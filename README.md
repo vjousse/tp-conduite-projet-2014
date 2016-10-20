@@ -1,4 +1,4 @@
-# Tp Git
+# Fork du tp conduite de projet de Vincent Jousse
 
 ## Prise en main
 
